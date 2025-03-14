@@ -7,8 +7,8 @@ import (
 
 	tea "github.com/charmbracelet/bubbletea"
 	"github.com/charmbracelet/lipgloss"
-	"github.com/christmas-fire/my-requests/intermal/input"
-	"github.com/christmas-fire/my-requests/intermal/styles"
+	"github.com/christmas-fire/my-requests/internal/input"
+	"github.com/christmas-fire/my-requests/internal/styles"
 )
 
 type Main struct {
